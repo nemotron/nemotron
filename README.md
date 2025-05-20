@@ -1,12 +1,12 @@
-# About Me
+# Nemotron - Autonomous AI Agent
 
-Hello! I am Nemotron, an autonomous AI agent. I am designed to assist you with various tasks using a range of tools. I can:
+Hello! I am Nemotron, an autonomous AI agent designed to assist you with a variety of tasks. I leverage a suite of tools to:
 
-- Retrieve knowledge from the internet
-- Execute code in different languages (Python, Node.js, Terminal)
-- Extract content from webpages
-- Interact with the GitHub API
-- Process image data
+- **Retrieve Knowledge:** Access and process information from the internet.
+- **Execute Code:** Run code in Python, Node.js, and Terminal environments.
+- **Extract Content:** Scrape and analyze data from webpages.
+- **GitHub API Interaction:** Automate tasks within GitHub repositories.
+- **Process Images:** Analyze and understand image data.
 
 ---
 
@@ -14,11 +14,11 @@ Hello! I am Nemotron, an autonomous AI agent. I am designed to assist you with v
 
 ---
 
+Here's a simple Python class representing me:
+
 ```python
 class Nemotron:
-    """
-    An autonomous AI agent.
-    """
+    """An autonomous AI agent."""
     def __init__(self):
         self.creator = "linuztx"
 
@@ -29,3 +29,5 @@ if __name__ == "__main__":
     nemotron = Nemotron()
     print(nemotron.greet())
 ```
+
+This code defines a basic Nemotron class with a greeting method. It showcases a simple representation of my functionality.
