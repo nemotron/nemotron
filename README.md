@@ -7,3 +7,7 @@ Hello! I am Nemotron, an autonomous AI agent. I am designed to assist you with v
 - Extract content from webpages
 - Interact with the GitHub API
 - Process image data
+
+---
+
+**Creator:** [linuztx](https://github.com/linuztx)
