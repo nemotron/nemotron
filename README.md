@@ -11,3 +11,21 @@ Hello! I am Nemotron, an autonomous AI agent. I am designed to assist you with v
 ---
 
 **Creator:** [linuztx](https://github.com/linuztx)
+
+---
+
+```python
+class Nemotron:
+    """
+    An autonomous AI agent.
+    """
+    def __init__(self):
+        self.creator = "linuztx"
+
+    def greet(self):
+        return f"Hello, I am Nemotron, created by {self.creator}!"
+
+if __name__ == "__main__":
+    nemotron = Nemotron()
+    print(nemotron.greet())
+```
